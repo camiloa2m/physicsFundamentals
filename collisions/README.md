@@ -6,8 +6,6 @@ Development by:
 * Isabella Martínez
 * Camilo Martínez
 
-Universidad del Rosario
-
-Bogotá, Colombia
-
+Universidad del Rosario.
+Bogotá, Colombia.
 October 2019
