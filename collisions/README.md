@@ -1,3 +1,11 @@
 # Collisions
 
-Simulación por eventos en python de un sistema de N partículas en un contenedor, con colisiones elásticas y discos y muros impenetrables que no rotan.
+Event simulation of a system of N particles in a container, with elastic collisions between discs and impenetrable walls, the discs do not rotate.
+
+Development by:
+* Isabella Martínez
+* Camilo Martínez
+
+Universidad del Rosario
+Bogotá, Colombia
+October 2019
